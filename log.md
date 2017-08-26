@@ -10,16 +10,16 @@
 **Link to work:** I didn't upload the code!!!!!
 
 ### Day 1: February 26, 2017 
-//##### (delete me or comment me out)
-
-<!-- **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.-->
-
-<!-- **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.-->
-
-<!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-// ### Day 1: June 27, Monday
+ **Today's Progress**: Today I learned about New String Methods, Destructuring and how to use with object and arrays. Other than this I also learned for of loop and using with array.
+
+ **Thoughts**: Today I done all the things which have written above. I know these things before but today I found that my concepts are more clear and the things which are not clear before are cleared today
+
+ **Link(s) to work**: Sorry the code was so basic so I didn't upload it.
+
+
+// ### Day 2: August 27, Monday
 
 <!-- **Today's Progress**: I've gone through many exercises on FreeCodeCamp. -->
 
