@@ -19,13 +19,15 @@
  **Link(s) to work**: Sorry the code was so basic so I didn't upload it.
 
 
-// ### Day 2: August 27, Monday
+### Day 2: August 27, Sunday
 
-<!-- **Today's Progress**: I've gone through many exercises on FreeCodeCamp. -->
+ **Today's Progress**: Today I have studied about Spread and Rest operater and Promises in ES6.
 
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
+**Thoughts** : The topic which I have studied is very good and they are also very imp important for future presprective. So I learned a little and focus on understanding part.
 
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** : Sorry I didn't upload my work beacuse the code I do is very less.
+
+### Day 3: August 28, Monday
+
+**Today's Progress**:
 
