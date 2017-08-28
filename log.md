@@ -29,5 +29,11 @@
 
 ### Day 3: August 28, Monday
 
-**Today's Progress**:
+**Today's Progress**: Today I learned about Symbols and how to improve code quality using ESlint and Airbnb. I also learned about Javascript modules and Webpack 2 Tooling Setup and creating my own Module.
+
+**Thoughts** : The topic I studied is very good as they are closely related to React and if I start React then it will help me in future. Literrally, It was fun playing with the modules making my own and importing and exporting was good.
+
+**Link(s) to work** : Sorry I didn't upload the code because it is very less and not structured.
+
+
 
