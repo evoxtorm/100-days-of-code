@@ -35,5 +35,16 @@
 
 **Link(s) to work** : Sorry I didn't upload the code because it is very less and not structured.
 
+### Day 4: August 29, Tuesday
+
+**Today's Progress**: Today I learned about System.js, babel + npm ,polyfilling, prototypal inheriteance, classes and extending classes.
+
+**Thoughts** : Found difficulties working with these lessons, they are actually hard and I was struggling but I manage to learn little-bit but when I do project then it will be clear.
+
+**Link(s) to work** : I really want to upload these code but they are too messy so today I also I don't provide any link to the project.
+
+
+
+
 
 
