@@ -43,8 +43,13 @@
 
 **Link(s) to work** : I really want to upload these code but they are too messy so today I also I don't provide any link to the project.
 
+### Day 4: August 30, Wednesday
 
+**Today's Progress**: Today was very hectic and busy day. So, I don't able to work properly but I learned about generators,Using generator for AJAX and looping through it and also learned about proxies and Sets.
 
+**Thoughts** : The topics are kinda confusing and today I was too tired so I couldn't focus on the coding part. So, I will revise again.
+
+**Link(s) to work** : I didn't code today just go through the videos and nothing else.
 
 
 
