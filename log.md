@@ -52,4 +52,13 @@
 **Link(s) to work** : I didn't code today just go through the videos and nothing else.
 
 
+### Day 6: August 31, Thrusday
+
+**Today's Progress**: Today I finished ES6 course and recalling all the topics and going to do Javascript30 by WES BOS.
+
+**Thoughts** : Recalling all the topics and nothing else!!!
+
+**Link(s) to work** : I didn't code today just go through the videos and nothing else.
+
+
 
