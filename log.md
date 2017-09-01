@@ -60,5 +60,11 @@
 
 **Link(s) to work** : I didn't code today just go through the videos and nothing else.
 
+### Day 7: September 1, Friday
 
+**Today's Progress** : I finished Javascript30 first project.
+
+**Thoughts** : The project is very good and I finished it very easily.
+
+**Link(s) to work** : I will upload this project very soon!!!
 
